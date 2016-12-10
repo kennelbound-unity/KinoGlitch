@@ -1,6 +1,6 @@
 {
   "name": "KinoGlitch",
-  "export": "KinoGlitch",
+  "export": "Assets",
   "dependencies": [
 	  "kennelbound-unity/KvantReaktion"
   ]
